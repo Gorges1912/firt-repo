@@ -75,6 +75,7 @@ namespace GITtraincs
                     {
                         dict[name].Gold += gold;
                         Console.WriteLine($"{gold} gold added to the city treasury. {name} now has {dict[name].Gold} gold.");
+
                     }
                 }
             }
